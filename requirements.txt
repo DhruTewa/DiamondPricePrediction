@@ -1,0 +1,6 @@
+pandas
+numpy
+flask
+
+#-e . # it will trigger the setup.py file
+
